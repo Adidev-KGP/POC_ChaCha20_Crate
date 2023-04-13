@@ -13,6 +13,8 @@
 edition = "2021"
 name = "chacha20"
 version = "0.1.0"
+description = "ChaCha20 crate for demonstation purpose"
+license = "MIT"
 
 [dependencies.hex]
 version = "0.4"
