@@ -13,6 +13,7 @@
 edition = "2021"
 name = "chacha20"
 version = "0.1.0"
+authors = ["Adidev Bhattacharya <adidev9602@gmail.com>"]
 description = "ChaCha20 crate for demonstation purpose"
 license = "MIT"
 
