@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "ChaCha20 crate for demonstation purpose"
 license = "MIT"
+authors = ["Adidev Bhattacharya <adidev9602@gmail.com>"]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
