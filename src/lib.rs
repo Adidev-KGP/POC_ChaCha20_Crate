@@ -13,5 +13,5 @@ mod tests {
     }
 }
 
-pub mod chacha20_algo;
-pub mod block;
+pub mod chacha20;
+// pub mod block;

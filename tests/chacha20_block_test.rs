@@ -3,7 +3,7 @@ use std::convert::TryInto;
 extern crate chacha20;
 extern crate hex;
 
-use chacha20::{{chacha20_algo::ChaCha20}, {block::chacha20_block}};
+use chacha20::{chacha20::{ChaCha20, chacha20_block}};
 // use hex::{FromHex, ToHex};
 use hex::FromHexError;
 
